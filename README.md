@@ -81,7 +81,7 @@
 
    ---> Feature Extraction is used to create the new features by programming.
 
-          **Techniques:-**
+          Techniques:-
 
                 . Principle Computational Analysis(PCA)
 
