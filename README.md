@@ -84,7 +84,7 @@
 
           Techniques:-
 
-                . Principle Computational Analysis(PCA)
+                . Principle Component Analysis(PCA)
 
                 . Linear Discriminant Analysis(LDA)
 
