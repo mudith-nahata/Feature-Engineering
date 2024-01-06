@@ -121,6 +121,8 @@
   
   ---> if the Mean is zero and standard deviation is one then the given data is scaled data.
 
+                          Formula to calulate standard deviation=xi'=xi-mean/standard deviation
+
   **When to use standardization technique:-**
 
        . K-Means Algorithm
