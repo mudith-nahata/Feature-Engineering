@@ -68,7 +68,7 @@
 
   ---> Feature selection is the process of selecting the features from the Imput data.
 
-  ---> The Best example of working with feature selection is **MNIST** dataset which is famous in Machine Learning and Deep Learning with Convolution Neural Network. 
+  ---> The Best example of working with feature selection is **MNIST** dataset which is famous in Machine Learning and Deep Learning with Convolutional Neural Network. 
 
   ---> So whatever the image they have given and it will be converted to the tabular form
 
