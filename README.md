@@ -77,6 +77,7 @@
   ---> Each categories of pixel are represented in column
 
   **Feature Extraction**
+  
    ---> Feature Extraction is a technique of feature Engineering
 
    ---> Feature Extraction is used to create the new features by programming.
@@ -103,7 +104,7 @@
 
     ---> if we do not scale the values we will not get good results.
 
-    **Types of Feature Scaling**
+    Types of Feature Scaling
 
          1) Standardization
 
