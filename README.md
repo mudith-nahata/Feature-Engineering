@@ -113,6 +113,7 @@
   **Standardization**
 
   ---> standardization is a type of feature scaling
+  
 .
   ---> sometimes in the Machine Learning Literature it is also called as Z-Score Normalization. 
 
